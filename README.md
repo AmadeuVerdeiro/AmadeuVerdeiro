@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @AmadeuVerdeiro Born in Ourinhos, a small town in the state of São Paulo, Brazil. 
-I moved to Portugal at the age of 19, I was still studying Fatec - College of Technology, but 
-the challenge of a new country was more attractive.
-In Portugal I learned a new profession, the opportunity they offered me, I took it and did my best, 
-where the peak was to be hired to work in Spain, where I currently live, but now, with the new technologies, 
-I feel the challenge of returning to the profession that has always fascinated me.
-At this moment studying, and in the future, also to always fulfill the desire to do everything with excellence.
-<!--Husband to a wonderful wife and father of 2 fantastic children.-->
-- 👀 I’m interested in learning about the developer world.
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on everything involved in programing computers.
+I stand at the threshold of an exciting career transition, driven by a lifelong aspiration. 
+
+Throughout my professional journey, I have cherished the dream of becoming a developer, and today, I am thrilled to declare that the time has come to turn that dream into reality.
+
+My journey has been one of continuous growth, cultivating essential skills, and honing my passion for coding and problem-solving.
+
+Becoming a frontend developer has always been my ultimate goal, and I am eager to contribute my expertise and dedication to the success of the team and the organization that extends me the opportunity. My commitment to delivering high-quality work and adding value to the projects I undertake drives me forward.
+
+Throughout my career transition, I have invested time and effort to acquire the necessary technical knowledge and hands-on experience to thrive in this dynamic domain. The prospect of crafting intuitive user interfaces, collaborating with talented teams <b> 
+<<br> great mentor => 🧐<a href="https://github.com/paulohenriquesnv">Paulo Henrique</a> <br> and a top-notch colleague => 😎<a href="https://github.com/GustavoBrazThomaz">Gustavo Braz</a> 
+
+I will always be grateful for your support, patience and friendship.</b>
+
+🤩
+I am excited to embark on this new chapter and bring my unique perspective, adaptability, and creativity to the forefront of frontend development. With every challenge I have faced, I have grown more determined to make a meaningful impact and contribute to the success of the company that welcomes me into their fold.
+
+thanks for reading this far... see you between commits and push's
